@@ -8,6 +8,7 @@ import Tela3 from '../components/Tela3';
 import Tela4 from '../components/Tela4';
 import Home from '../components/Home';
 
+
 // instalar npm i react-navigation --save
 // abrir package.json e tirar a atualização
 
