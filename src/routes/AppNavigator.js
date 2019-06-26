@@ -11,7 +11,6 @@ import Home from '../components/Home';
 // instalar npm i react-navigation --save
 // abrir package.json e tirar a atualização
 
-
 // cria um container com todas as rotas
 const AppNavigator = createAppContainer(
     createStackNavigator({
